@@ -1,0 +1,17 @@
+<resources>
+    <!-- Custom DatePicker Style -->
+    <style name="CustomDatePicker" parent="android:Widget.Material.DatePicker">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Custom TimePicker Style -->
+    <style name="CustomTimePicker" parent="android:Widget.Material.TimePicker">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
+
+
+
+
